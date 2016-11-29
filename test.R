@@ -7,5 +7,6 @@ B <- 6
 
 C = A/B;
 
+# Can I make changes in a branch?
 
-
+C = B/A
